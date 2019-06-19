@@ -71,7 +71,6 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Other data sources
 * Data types
 * Thinking critically about data
-* Guest speaker: George Levines, CQ Roll Call
 * **[Assignment](TKTKTK)**: Compile own dataset
 
 **Class 3: Cleaning data** (July 10)
@@ -91,7 +90,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * **Assignment**: Work on final project
 
 **Class 7: Covering government with data** (August 14)
-* **[Assignment 7](TKTKTK)**: Public records story
+* **[Assignment](TKTKTK)**: Public records story
 
 **Class 8: Presenting/storytelling with data** (August 21)
 
