@@ -93,12 +93,12 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 **Class 7: Covering government with data** (August 14)
 * **[Assignment](TKTKTK)**: Public records story
 
-**Class 8: Presenting/storytelling with data** (August 21)
+**Class 8: Presenting/storytelling with data (plus final assignment interviews)** (August 21)
 
-**Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** (August 28)
+**Class 9: What the hell is an API, and other questions I was too afraid to ask** (August 28)
 
 **Class 10: Bonus: Things smart people know more about than I do** (Makeup date for July 24 TBD)
 
-### [Final project](TKTKTK)
+### [Final project](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/documents/finalproject.md)
 
 Due by the second-to-last class (on August 21) will be a data-driven story of between 1,000 and 1,350 words. This should include at least two proposals for data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
