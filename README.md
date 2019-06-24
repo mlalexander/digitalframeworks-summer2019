@@ -64,7 +64,8 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Learn how to critique data stories/visualizations
 * Kinds of data journalism
 * Introduce final project
-* **[Assignment](TKTKTK)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
+* GitHub and markdown
+* **[Assignment](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/class1/assignment.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic. Learn how to use markdown on GitHub.
 
 **Class 2: Finding data** (July 3)
 * Government data
