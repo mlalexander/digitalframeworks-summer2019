@@ -2,7 +2,7 @@
 
 You must complete a final project for this class. The project has two components:
 1. A 1,000-word story based substantially on a dataset with two proposals for data visualization, due by 6 p.m. on Tuesday, June 11.
-1. In the second-to-last class (June 11), a fellow student will interview you about the piece
+1. In the second-to-last class (August 21), a fellow student will interview you about the piece.
 
 The 1,000-word piece should answer an interesting question using data. The data component of the story must be substantial, and you need to dig into the dataset. If you just read toplines off a website without actually finding and downloading or creating a dataset, that is insufficient.
 
