@@ -16,7 +16,7 @@ Markdown is a markup language that plays particularly well with GitHub, producin
 
 ### To be submitted before the start of the next class
 
-1. Create a Github account. Add your account name to this [Google sheet](TKTKTK) so I know where to find your homework.
+1. Create a Github account. Add your account name to this [Google sheet](https://forms.gle/75uSjX16yXMVhz4R7) so I know where to find your homework.
 1. Create a repository called *digitalframeworks-summer2019*. You will submit all your homework there.
 2. Create a new file called assignment1.md
 2. Think about two story ideas you would want to do your final project on. They can be broad for now, but the quicker you get to a specific idea, the easier it will be to complete further assignments. Think about specific questions you would want to ask that data can help you answer. For example:
