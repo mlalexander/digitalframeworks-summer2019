@@ -24,7 +24,7 @@ Markdown is a markup language that plays particularly well with GitHub, producin
    * For a story on baseball: Do teams that make the playoffs do better on opening day the following year?
 1. Write approximately 100 words about each story idea, with at least one specific question for each you think you can answer with data.
 1. For each idea, find one published story from the past year that has a data component related to your pitch. It can be a visual, graphic, video or text story.
-2. Critique the story [following this template](TKTKTK) in your markdown file. Include a hyperlink (written as 
+2. Critique the story [following this template](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/documents/critique-template.md) in your markdown file. Include a hyperlink (written as 
 `[link text](http://www.linkurl.com)`) to the original story.
 1. Include at least one of the following features in your writeup, to show you know how to use markdown:
    * A heading
