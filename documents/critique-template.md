@@ -35,7 +35,7 @@ This is almost entirely from [Sean McMinn](https://twitter.com/shmcminn) at NPR,
        * Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?
 * Type (1-5)
    * Explain
-*Color (1-5)
+* Color (1-5)
    * Explain
    
 ### Objective: Creativity
