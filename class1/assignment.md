@@ -31,6 +31,8 @@ Markdown is a markup language that plays particularly well with GitHub, producin
    * A list or table
 1. Commit this assignment in your digitalframeworks repository.
 
+[Here's a markdown cheatsheet.](https://guides.github.com/features/mastering-markdown/)
+
 ## Reminder
 
 At the beginning of each class, I will call on 1-2 students to share a data story they noticed during the week, so keep your eyes out and come to class prepared with at least one link to a data story.
