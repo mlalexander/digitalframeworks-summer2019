@@ -2,7 +2,6 @@
 
 Some great stories come out of reporters collecting their own datasets. Here are some examples:
 * [Governors with very low approval ratings](https://fivethirtyeight.com/features/chris-christie-is-still-more-popular-than-governors-who-were-literally-criminals/)
-* [Snap counts for various running backs](https://github.com/brentschwartz/digital-frameworks-hw/blob/master/finalproject.md), by a former Digital Frameworks student
 * [Every Trump tweet insulting anything](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
 * [White House visitors](https://www.politico.com/interactives/databases/trump-white-house-visitor-logs-and-records/index.html)
 * [Emergency room bills](https://erbills.vox.com/)
@@ -17,7 +16,7 @@ Think about an area you're interested in, or one you may do your final project o
 * A table including at least five data points in this dataset
 * You can put your data in a google sheet (in which case, put the link in your homework) or make a table directly in the document you submit.
 * Your dataset cannot be something you can just find elsewhere. For example, do not pick something like "all earthquakes above magnitude 7 in the US" because someone (the USGS) already has exactly that data collection. If you want to do earthquakes, add more information such as the number of injuries and deaths reported in the media, and possibly include a link to the relevant media report as one of your columns.
-* Submit this assignment as `assigment2.md`
+* Submit this assignment as `assigment2.md`. Remember your assignment *must* be written in markdown.
 
 ## Can we have an example?
 
