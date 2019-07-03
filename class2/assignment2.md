@@ -11,9 +11,9 @@ Some great stories come out of reporters collecting their own datasets. Here are
 Think about an area you're interested in, or one you may do your final project on, and come up with a dataset you wish existed. Then submit the following:
 
 * A description of the question you're curious about, and an explanation about how this data could turn into a story. (Imagine this as your justification to your editor as to why this is worth your time)
-* A list of the things you want to know about any data point
+* A list of the things you want to know about any data point.
 * An explanation of how you'd go about collecting that data (you don't actually have to do it on an ongoing basis, especially if it involves staking something out, just tell me how you would do it).
-* A table including at least five data points in this dataset
+* A table of your proposed fields, including five records
 * You can put your data in a google sheet (in which case, put the link in your homework) or make a table directly in the document you submit.
 * Your dataset cannot be something you can just find elsewhere. For example, do not pick something like "all earthquakes above magnitude 7 in the US" because someone (the USGS) already has exactly that data collection. If you want to do earthquakes, add more information such as the number of injuries and deaths reported in the media, and possibly include a link to the relevant media report as one of your columns.
 * Submit this assignment as `assigment2.md`. Remember your assignment *must* be written in markdown.
@@ -38,6 +38,8 @@ I will collect the data by watching part of the press conference and recording t
 Color | Date | Time | Location | Temperature | Other speakers | Image link
 ---- | ----- | ---- | -------- | ----------- | -------------- | ----------
 tk | tk | tk | tk | tk | tk | tk
+tk | tk | tk | tk | tk | tk | tk
+tk | tk | tk | tk | tk | tk | tk
+tk | tk | tk | tk | tk | tk | tk
+tk | tk | tk | tk | tk | tk | tk
 
-
-*You actually have to collect 5 datapoints from your proposed dataset -- this is just an example. You should have five rows of data in your proposed database.*
