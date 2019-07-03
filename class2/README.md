@@ -7,4 +7,4 @@
 * Thinking critically about data
 
 # Assignment
-[Collecting your own data](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/class2/assignment2.md)
+[Collecting your own data](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/class2/assignment2.md), due July 10 by 6 p.m. ET
