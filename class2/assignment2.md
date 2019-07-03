@@ -40,4 +40,4 @@ Color | Date | Time | Location | Temperature | Other speakers | Image link
 tk | tk | tk | tk | tk | tk | tk
 
 
-*You actually have to collect 5 datapoints from your proposed dataset -- this is just an example*
+*You actually have to collect 5 datapoints from your proposed dataset -- this is just an example. You should have five rows of data in your proposed database.*
