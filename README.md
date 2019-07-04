@@ -72,7 +72,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Other data sources
 * Data types
 * Thinking critically about data
-* **[Assignment](TKTKTK)**: Compile own dataset
+* **[Assignment](https://github.com/mlalexander/digitalframeworks-summer2019/tree/master/class2)**: Compile own dataset
 
 **Class 3: Cleaning data** (July 10)
 - Share data stories
