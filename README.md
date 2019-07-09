@@ -81,8 +81,10 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 - Advanced cleaning techniques using Sublime Text and Excel
 * **[Assignment](TKTKTK)**: Clean a messy dataset
 
-**Class 4: Stats for journalists** (July 17
+**Class 4: Stats for journalists** (July 17)
 * **[Assignment](TKTKTK)**: Pitch a story
+
+**NO CLASS ON JULY 24**
 
 **Class 5: Analyzing data** (July 31)
 * **[Assignment](TKTKTK)**: 3 interesting questions to analyze a dataset
