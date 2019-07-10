@@ -6,7 +6,7 @@
 
 **Contact**: madison.alexander@northwestern.edu OR [@MadiLAlexander](http://www.twitter.com/MadiLAlexander) on Twitter
 
-**Class time**: 6 p.m. - 9 p.m., Wednesdays | No class July 24, makeup date TBD
+**Class time**: 6 p.m. - 9 p.m., Wednesdays | No class July 24, makeup date August 8
 
 **Office hours**: By appointment
 
@@ -77,9 +77,9 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 **Class 3: Cleaning data** (July 10)
 - Share data stories
 - Cleaning overview
-- Five cleaning activities done with partners
-- Advanced cleaning techniques using Sublime Text and Excel
-* **[Assignment](TKTKTK)**: Clean a messy dataset
+- Hands-on cleaning activity using advanced Excel
+- 1-on-1 meetings about final project
+* **[Assignment](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/class3/assignment3.md)**: Clean a messy dataset
 
 **Class 4: Stats for journalists** (July 17)
 * **[Assignment](TKTKTK)**: Pitch a story
@@ -100,7 +100,6 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 **Class 9: Presenting/storytelling with data (plus final assignment interviews)** (August 21)
 
 **Class 10: What the hell is an API, and other questions I was too afraid to ask** (August 28)
-
 
 ### [Final project](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/documents/finalproject.md)
 
