@@ -81,12 +81,15 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 - 1-on-1 meetings about final project
 * **[Assignment](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/class3/assignment3.md)**: Clean a messy dataset
 
-**Class 4: Stats for journalists** (July 17)
-* **[Assignment](TKTKTK)**: Pitch a story
+**Class 4: Advanced Excel** (July 17)
+– Advanced functions and formulas in Excel
+– Pivot tables
+* **[Assignment](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/class4/assignment4.md)**: Pitch a story
 
 **NO CLASS ON JULY 24**
 
 **Class 5: Analyzing data** (July 31)
+– Discuss pitches
 * **[Assignment](TKTKTK)**: 3 interesting questions to analyze a dataset
 
 **Class 6: Data visualization** (August 7)
