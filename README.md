@@ -88,14 +88,14 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 **NO CLASS ON JULY 24**
 
-**Class 5: Analyzing data** (July 31)
-– Discuss pitches
-* **[Assignment](TKTKTK)**: 3 interesting questions to analyze a dataset
+**Class 5: Canceled** (July 31)
+* **Assignment**: Work on final project
 
-**Class 6: Data visualization** (August 7)
+**Class 6: Data analysis** (August 7)
 * **Assignment**: Work on final project
 
-**Class 7: Bonus: Things smart people know more about than I do** (August 8)
+**Class 7: Data visualization + Bonus: Things smart people know more about than I do** (August 8)
+* **Assignment**: Work on final project
 
 **Class 8: Covering government with data** (August 14)
 * **[Assignment](TKTKTK)**: Public records story
