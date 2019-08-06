@@ -4,9 +4,9 @@
 * Data visualization
 * Panel of journalists
 + Annie Daniel, The New York Times
-+ Jeremy Lin, Bloomberg News
-+ Lily Mazet, Politico
-+ Kate Rabinowitz, The Washington post
++ Jeremy C.F. Lin, Bloomberg News
++ Lily Mihalik, Politico
++ Kate Rabinowitz, The Washington Post
 
 # Assignment
 * Continue working on final projects
