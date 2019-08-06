@@ -1,5 +1,4 @@
 # Class 5
 
-# Agenda
-
 # Assignment
+* Work on final project
