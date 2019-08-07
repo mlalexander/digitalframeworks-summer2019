@@ -10,3 +10,4 @@
 
 # Assignment
 * Continue working on final projects
+* [Interview a dataset](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/class7/assignment5.md)
