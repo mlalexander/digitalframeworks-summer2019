@@ -95,10 +95,10 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * **Assignment**: Work on final project
 
 **Class 7: Data visualization + Bonus: Things smart people know more about than I do** (August 8)
-* **Assignment**: Work on final project
+* **Assignment**: [Interview a dataset](https://github.com/mlalexander/digitalframeworks-summer2019/blob/master/class7/assignment5.md)
 
 **Class 8: Covering government with data** (August 14)
-* **[Assignment](TKTKTK)**: Public records story
+* **Assignment**: Work on final project
 
 **Class 9: Presenting/storytelling with data (plus final assignment interviews)** (August 21)
 
