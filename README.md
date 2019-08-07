@@ -89,7 +89,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 **NO CLASS ON JULY 24**
 
 **Class 5: Canceled** (July 31)
-* **Assignment**: Work on final project
+**Assignment**: Work on final project
 
 **Class 6: Data analysis** (August 7)
 * **Assignment**: Work on final project
