@@ -2,6 +2,7 @@
 
 # Agenda
 * Data visualization
+* [Link to presentation](https://docs.google.com/presentation/d/1bsiyXEthkgmF9rgmqeEQPhaYTJ5ms17xOMOcoesaZgs/edit?usp=sharing)
 * Panel of journalists
 + [Annie Daniel](https://twitter.com/anieldaniel), The New York Times
 + [Jeremy C.F. Lin](https://twitter.com/Jeremy_CF_Lin), Bloomberg News
