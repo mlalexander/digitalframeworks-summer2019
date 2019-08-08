@@ -3,10 +3,10 @@
 # Agenda
 * Data visualization
 * Panel of journalists
-+ Annie Daniel, The New York Times
-+ Jeremy C.F. Lin, Bloomberg News
-+ Lily Mihalik, Politico
-+ Kate Rabinowitz, The Washington Post
++ [Annie Daniel](https://twitter.com/anieldaniel), The New York Times
++ [Jeremy C.F. Lin](https://twitter.com/Jeremy_CF_Lin), Bloomberg News
++ [Lily Mihalik](https://twitter.com/mazet), Politico
++ [Kate Rabinowitz](https://twitter.com/dataKateR), The Washington Post
 
 # Assignment
 * Continue working on final projects
