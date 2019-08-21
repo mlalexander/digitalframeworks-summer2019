@@ -100,7 +100,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 **Class 8: Presenting/storytelling with data** (August 14)
 * **Assignment**: Work on final project
 
-**Class 9: Covering government with data (plus final assignment interviews)** (August 21)
+**Class 9: Final assignment interviews** (August 21)
 
 **Class 10: What the hell is an API, and other questions I was too afraid to ask** (August 28)
 
