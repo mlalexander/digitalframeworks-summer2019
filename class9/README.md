@@ -1,5 +1,3 @@
 # Class 9
 
-# Agenda
-
-# Assignment
+[Link to presentation](https://prezi.com/hsbuuq7r3z1n/what-the-hell-is-r/)
